@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Document</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
-    <link rel="stylesheet" href="../styles/default.css">
-    <link rel="stylesheet" href="../styles/carousel.css">
+    <link rel="stylesheet" href="default.css">
+    <link rel="stylesheet" href="carousel.css">
     <script type="text/javascript" src="../javascript/bgmode.js" defer></script>
     <script type="text/javascript" src="../javascript/carousel.js" defer></script>
 </head>
